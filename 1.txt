@@ -1,0 +1,35 @@
+----------------ENTIDADES-----------------
+CREATE TABLE public.carro
+(
+    marca character varying(100),
+    ano integer,
+    modelo character varying(100)
+);
+
+CREATE TABLE public.empresa
+(
+    nome character varying(100),
+    endereco character varying(100),
+    dono character varying(100)
+);
+
+CREATE TABLE public.jogador
+(
+    nome character varying(100),
+   	camisa integer,
+    posicao character varying(100)
+);
+
+CREATE TABLE public.videogame
+(
+    empresa character varying(100),
+    ano_de_lancamento integer,
+    modelo character varying(100)
+);
+
+CREATE TABLE public.bar
+(
+    nome character varying(100),
+    dono character varying(100),
+    endereco character varying(100)
+);

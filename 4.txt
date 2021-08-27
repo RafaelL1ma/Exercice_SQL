@@ -1,0 +1,16 @@
+--------------------UPDATES--------------------
+
+UPDATE carro SET marca = 'Dogder' WHERE marca = 'Chevrolet';
+UPDATE carro SET ano = '1969' WHERE ano = 1967;
+
+UPDATE empresa SET nome = 'Facebook' WHERE nome = 'Microsoft';
+UPDATE empresa SET dono = 'Mark' WHERE dono = 'Bill Gates';
+
+UPDATE jogador SET nome = 'Messi' WHERE nome = 'Cristiano Ronaldo';
+UPDATE jogador SET camisa = 10 WHERE camisa = 07;
+
+UPDATE videogame SET empresa = 'Microsoft' WHERE empresa = 'Sony';
+UPDATE videogame SET modelo = 'Xbox Series X' WHERE modelo = 'PS5';
+
+UPDATE bar SET nome = 'Bar do tio' WHERE nome = 'Bar do Zé';
+UPDATE bar SET dono = 'Seu joão' WHERE dono = 'Seu Zé';

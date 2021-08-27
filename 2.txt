@@ -1,0 +1,13 @@
+----------------INSERCAO-----------------
+
+INSERT INTO carro (marca, ano, modelo) VALUES('Chevrolet', 1967, 'Camaro');
+INSERT INTO empresa (nome, endereco, dono) VALUES('Microsoft', 'bairo blablabla, cidade NewYork, Estados Unidos', 'Bill Gates');
+INSERT INTO jogador (nome, camisa, posicao) VALUES('Cristiano Ronaldo', 07, 'Atacante');
+INSERT INTO videogame (empresa, ano_de_lancamento, modelo) VALUES('Sony', 2020, 'PS5');
+INSERT INTO bar (nome, dono, endereco) VALUES('Bar do Zé', 'Seu Zé', 'rua do zé');
+
+INSERT INTO carro (marca, ano, modelo) VALUES('Chevrolet', 2020, 'Onix');
+INSERT INTO empresa (nome, endereco, dono) VALUES('Aplle', 'bairo blablabla, cidade NewYork, Estados Unidos', 'Steve');
+INSERT INTO jogador (nome, camisa, posicao) VALUES('Ronaldinho', 10, 'Atacante');
+INSERT INTO videogame (empresa, ano_de_lancamento, modelo) VALUES('Sony', 2014, 'PS4');
+INSERT INTO bar (nome, dono, endereco) VALUES('Bar do joão', 'joão', 'rua do joão');

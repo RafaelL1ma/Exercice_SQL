@@ -1,0 +1,7 @@
+----------------SELECT-------------------
+
+SELECT * FROM carro;
+SELECT * FROM empresa;
+SELECT * FROM jogador;
+SELECT * FROM videogame;
+SELECT * FROM bar;

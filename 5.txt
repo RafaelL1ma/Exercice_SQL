@@ -1,0 +1,7 @@
+--------------DELETES----------------
+
+DELETE FROM carro where modelo = 'Camaro';
+DELETE FROM empresa where endereco = 'bairo blablabla, cidade NewYork, Estados Unidos';
+DELETE FROM jogador where posicao = 'Atacante';
+DELETE FROM videogame where ano_de_lancamento = 2020;
+DELETE FROM bar where endereco = 'rua do zé';

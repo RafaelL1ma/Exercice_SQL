@@ -1,0 +1,7 @@
+------------- SELECTS - WHERE --------------------
+
+SELECT * FROM carro where marca = 'Dodger';
+SELECT * FROM empresa where nome = 'Facebook';
+SELECT * FROM jogador where camisa = 10;
+SELECT * FROM videogame where empresa = 'Sony';
+SELECT * FROM bar where dono = 'joão';
